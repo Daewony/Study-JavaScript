@@ -1,4 +1,4 @@
-# 상황에 다른 this 값들
+// 상황에 다른 this 값들
 
 console.log(this); // window
 
